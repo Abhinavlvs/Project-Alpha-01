@@ -6,3 +6,4 @@ def chk_anagram(str1, str2):
 
 
 print(chk_anagram('aabb', 'AaBb'))
+print('new line added')
